@@ -21,6 +21,9 @@ Najczęściej używam tych technologii, aby budować wydajne aplikacje:
 
 * **[Smart Canteen](https://github.com/AdamRzem/Coding_Night_2026)** – System zamawiania posiłków stworzony na hackathon Coding Night 2026. Obsługuje zaawansowane role użytkowników (klient/pracownik).
     * *Tech stack:* SvelteKit, PostgreSQL, Tailwind CSS.
+ 
+* * **[eyeFridge](https://github.com/AdamRzem/eyeFridge)** – eyeFridge to inteligentna aplikacja do zarządzania zawartością lodówki.
+    * *Tech stack:* JS, Rust, Prisma, MySQL.
 
 ---
 
