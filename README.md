@@ -39,7 +39,7 @@ Najczęściej używam tych technologii, aby budować wydajne aplikacje:
 ### 📈 Statystyki GitHub
 
 ![Statystyki Adama](https://github-readme-stats-sigma-ochre-11.vercel.app/api?username=AdamRzem&show_icons=true&theme=radical)
-![Najczęściej używane języki](https://github-readme-stats-sigma-ochre-11.vercel.app/api/top-langs?username=AdamRzem&layout=compact&theme=radical&exclude_repo=github-readme-stats&v=123)
+![Najczęściej używane języki](https://github-readme-stats-sigma-ochre-11.vercel.app/api/top-langs?username=AdamRzem&layout=compact&theme=radical&exclude_repo=github-readme-stats,django4p2&v=123)
 
 ---
 
