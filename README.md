@@ -1,4 +1,4 @@
-# Cześć, jestem Adam! 👋
+<img width="1344" height="446" alt="image" src="https://github.com/user-attachments/assets/14fa349b-e4da-4f07-8c1c-d085c0eebbde" /># Cześć, jestem Adam! 👋
 
 ### Fullstack Developer | 19-letni pasjonat nowoczesnych technologii
 
@@ -38,7 +38,7 @@ Najczęściej używam tych technologii, aby budować wydajne aplikacje:
 
 ### 📈 Statystyki GitHub
 
-![Statystyki Adama](https://github-readme-stats.vercel.app/api?username=AdamRzem&show_icons=true&theme=radical&count_private=true)
+![Statystyki Adama](https://github-readme-stats-sigma-ochre-11.vercel.app/api?username=AdamRzem&show_icons=true&theme=radical)
 ![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRzem&layout=compact&theme=radical)
 
 ---
