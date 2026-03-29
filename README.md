@@ -1,4 +1,4 @@
-<img width="1344" height="446" alt="image" src="https://github.com/user-attachments/assets/14fa349b-e4da-4f07-8c1c-d085c0eebbde" /># Cześć, jestem Adam! 👋
+# Cześć, jestem Adam! 👋
 
 ### Fullstack Developer | 19-letni pasjonat nowoczesnych technologii
 
