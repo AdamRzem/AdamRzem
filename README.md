@@ -42,7 +42,8 @@ I'm a developer who prioritizes performance, clean code, and continuous growth. 
 * **[eyeFridge](https://github.com/AdamRzem/eyeFridge)** - An intelligent application for managing fridge inventory.
     * *Tech stack:* JS, Rust, Prisma, MySQL.
  
-* **[SateliteHunter]()** 
+* **[Asteria](https://github.com/AdamRzem/hackathon2026)** - Orbital Hunter is a playable spectacle that turns real satellite motion, live orbital data and the poetry of cosmic chance
+    * *TechStack:* Godot, Python  
 
 ---
 
