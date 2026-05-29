@@ -36,20 +36,23 @@ I'm a developer who prioritizes performance, clean code, and continuous growth. 
 
 ### 🚀 Selected Projects
 
-* **[Smart Canteen](https://github.com/AdamRzem/Coding_Night_2026)** – A meal ordering system created for the Coding Night 2026 hackathon. It handles advanced user roles (client/employee).
+* **[Smart Canteen](https://github.com/AdamRzem/Coding_Night_2026)** - A meal ordering system created for the Coding Night 2026 hackathon. It handles advanced user roles (client/employee).
     * *Tech stack:* SvelteKit, PostgreSQL, Tailwind CSS.
  
-* **[eyeFridge](https://github.com/AdamRzem/eyeFridge)** – An intelligent application for managing fridge inventory.
+* **[eyeFridge](https://github.com/AdamRzem/eyeFridge)** - An intelligent application for managing fridge inventory.
     * *Tech stack:* JS, Rust, Prisma, MySQL.
+ 
+* **[SateliteHunter]()** 
 
 ---
 
 ### 🏆 Achievements & Certifications
 
-- 🥇 **1st Place** – Coding Night ZSEM 2026 Hackathon
-- 🏅 **Laureate** – Olympiad of Technical Innovation
-- 🎓 **Google Certificate** – "Using AI in Business Development" (Skills of Tomorrow)
-- 🗣️ **English C1** – Fluent communication in international projects
+- 🥇 **1st Place** - SpaceShield Hack 2026 in Open category
+- 🥇 **1st Place** - Coding Night ZSEM 2026 Hackathon
+- 🏅 **Laureate** - Olympiad of Technical Innovation
+- 🎓 **Google Certificate** - "Using AI in Business Development" (Skills of Tomorrow)
+- 🗣️ **English C1** - Fluent communication in international projects
 
 ---
 
